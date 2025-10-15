@@ -1,0 +1,17 @@
+/* CSS Document */
+body {
+    background-color: lightblue; 
+    font-family: Roboto;
+}
+h1 {
+     text-align: center;
+     color: rgb(138, 60, 124);
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+p {
+    text-align: center;
+}

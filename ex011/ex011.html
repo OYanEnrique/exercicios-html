@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens dinamicas</title>
+</head>
+<body>
+    <h1>Imagens dinâmicas</h1>
+    <picture>
+        <source media ="(max-width: 750px)" srcset="images/cats.png" type="image/png">
+        <source media ="(max-width: 1000px)" srcset="images/catm.png" type="image/png">
+        <img src="images/catb.png" alt="Gato grande" width="1000" height="1000">
+    </picture>
+    <h1>Reproduzindo audio</h1>
+    <audio src="media/meow.mp3" controls autoplay></audio>
+
+    <audio preload="metadata" autoplay controls loop>
+        <source src="media/meow.mp3" type="audio/mpeg">
+        <p>Seu navegador não suporta o elemento de áudio.</p>
+    </audio>
+
+</body>
+</html>

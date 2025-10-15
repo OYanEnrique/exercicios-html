@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping tags</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #f5f5f6;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        footer {
+            background-color: #35424a;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        main {
+            padding: 20px;
+            background-color: #b8b8b8;
+            border-radius: 20px;
+        }
+        article > aside {
+            background-color: #e2e2e2;
+            padding: 0px;
+            margin-top: 1px;
+        }
+        nav{
+            margin-bottom: 20px;
+            text-align: center;
+            box-shadow:1px 1px 5px gray;
+            background-color: #35424a;
+            padding: 3px;
+        }
+            footer > p {
+                margin: 0;
+            }   
+            h1{
+                color: #35424a;
+            }
+            div #bola{
+                height: 100px;
+                width: 100px;
+                margin :10px;
+                background-color: red;
+                border-radius: 50%;
+                
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Blog Pessoal</h1>
+        <nav>
+            <a href="#">Home</a> |
+            <a href="#">Sobre</a> |
+            <a href="#">Serviços</a> |
+            <a href="#">Contato</a>
+        </nav>
+    </header>
+    <main>
+        <section id='assuntos'>
+
+        </section>
+        <section id='noticias'>
+            <article>
+                <h2>Notícia 1</h2>
+                <p>artigo escrito por Yan Enrique</p>
+                <aside>
+                    <p>Publicado em: 01/01/2023</p>
+                </aside>
+
+            </article>
+            <article>
+              
+            </article>
+
+        </section>
+
+    </main>
+    <footer>
+        <p>Yan Enrique</p>
+    </footer>
+    <div id ='bola'></div>
+</body>
+</html>

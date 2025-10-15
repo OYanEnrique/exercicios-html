@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalizando links</title>
+    <style>
+        a {
+            color: magenta;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:visited {
+            color: purple;
+        }
+        a:hover {
+            color: blue;
+            text-decoration: underline;
+        }
+        a:active {
+            color: yellow;
+        }
+        a::after {
+            content: " (link externo)";
+            font-size: 0.8em;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando links</h1>
+    <ul>
+        <li><a href="https://github.com/OYanEnrique" target="_blank">Github</a></li>
+        <li><a href="https://www.linkedin.com/in/yanenrique/" target="_blank">LinkedIn</a></li>
+        <li><a href="https://yanenrique.carrd.co" target="_blank">Landing Page</a></li>
+    </ul>
+</body>
+</html>
