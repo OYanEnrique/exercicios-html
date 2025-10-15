@@ -8,12 +8,16 @@ Aqui estão reunidos todos os exercícios desenvolvidos ao longo dos módulos 1 
 
 ## 📂 Estrutura do Repositório
 
-Cada pasta representa um exercício específico, contendo os arquivos HTML, CSS, imagens e outros recursos necessários:
+Todos os exercícios estão organizados dentro da pasta `Arquivos/`. Cada subpasta representa um exercício específico, contendo os arquivos HTML, CSS, imagens e outros recursos necessários:
 
-- `ex001/` - Primeiro exercício
-- `ex002 & 003 & 004/` - Exercícios 2, 3 e 4
-- `ex005/` - Exercício 5
-- ... (e assim por diante)
+```
+Arquivos/
+├── ex001/ - Primeiro exercício
+├── ex002 & 003 & 004/ - Exercícios 2, 3 e 4
+├── ex005/ - Exercício 5
+├── ...
+└── ex035/ - Exercício 35
+```
 
 ## 🎓 Sobre o Curso
 
@@ -32,7 +36,12 @@ O curso aborda desde os fundamentos básicos até conceitos mais avançados de d
 
 ## 💻 Como Visualizar
 
-Para visualizar os exercícios, basta abrir os arquivos `.html` em seu navegador preferido.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/OYanEnrique/exercicios-html.git
+   ```
+2. Navegue até a pasta `Arquivos/` e escolha o exercício desejado
+3. Abra o arquivo `.html` em seu navegador preferido
 
 ## 📝 Licença
 
