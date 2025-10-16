@@ -16,7 +16,8 @@ Arquivos/
 ├── ex002 & 003 & 004/ - Exercícios 2, 3 e 4
 ├── ex005/ - Exercício 5
 ├── ...
-└── ex035/ - Exercício 35
+├── ex035/ - Exercício 35
+└── ex036/ - Exercício 36
 ```
 
 ## 🎓 Sobre o Curso
