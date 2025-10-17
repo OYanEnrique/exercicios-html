@@ -17,8 +17,15 @@ Arquivos/
 ├── ex005/ - Exercício 5
 ├── ...
 ├── ex035/ - Exercício 35
-└── ex036/ - Exercício 36
+└── ex036/ - Tabelas grandes com cabeçalho fixo (position: sticky)
 ```
+
+### 🎯 Destaques Recentes
+
+- **ex036**: Tabelas grandes com:
+  - Cabeçalho fixo usando `position: sticky`
+  - Efeito zebrado nas linhas (nth-child)
+  - Estilização de caption, thead e tfoot
 
 ## 🎓 Sobre o Curso
 
