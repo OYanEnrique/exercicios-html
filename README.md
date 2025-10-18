@@ -17,10 +17,16 @@ Arquivos/
 ├── ex005/ - Exercício 5
 ├── ...
 ├── ex035/ - Exercício 35
-└── ex036/ - Tabelas grandes com cabeçalho fixo (position: sticky)
+├── ex036/ - Tabelas grandes com cabeçalho fixo (position: sticky)
+└── ex037/ - Mesclagem de células com colspan e rowspan
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex037**: Mesclagem de células em tabelas:
+  - Uso de `colspan` para mesclar células horizontalmente
+  - Uso de `rowspan` para mesclar células verticalmente
+  - Demonstração prática de mesclagem complexa
 
 - **ex036**: Tabelas grandes com:
   - Cabeçalho fixo usando `position: sticky`
