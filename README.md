@@ -20,10 +20,17 @@ Arquivos/
 ├── ex036/ - Tabelas grandes com cabeçalho fixo (position: sticky)
 ├── ex037/ - Mesclagem de células com colspan e rowspan
 ├── ex038/ - Tabela de filmes com escopo semântico
-└── ex039/ - Estilização de colunas com colgroup
+├── ex039/ - Estilização de colunas com colgroup
+└── ex040/ - Tabelas responsivas com overflow-x
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex040**: Tabelas responsivas:
+  - Uso de `overflow-x: auto` para rolagem horizontal
+  - Container div para controlar overflow
+  - Tabela com muitas colunas (vendas mensais)
+  - Responsividade em telas pequenas
 
 - **ex039**: Estilização de colunas em tabelas:
   - Uso de `<colgroup>` e `<col>` para estilizar colunas
@@ -59,7 +66,9 @@ O curso aborda desde os fundamentos básicos até conceitos mais avançados de d
 
 ✅ Módulo 1 - Finalizado
 ✅ Módulo 2 - Finalizado
-✅ Módulo 3 - Em progresso  
+✅ Módulo 3 - Finalizado
+✅ Módulo 4 - Em andamento
+
 ⏳ Novos módulos serão adicionados conforme o andamento do curso
 
 ## 💻 Como Visualizar
