@@ -18,10 +18,24 @@ Arquivos/
 ├── ...
 ├── ex035/ - Exercício 35
 ├── ex036/ - Tabelas grandes com cabeçalho fixo (position: sticky)
-└── ex037/ - Mesclagem de células com colspan e rowspan
+├── ex037/ - Mesclagem de células com colspan e rowspan
+├── ex038/ - Tabela de filmes com escopo semântico
+└── ex039/ - Estilização de colunas com colgroup
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex039**: Estilização de colunas em tabelas:
+  - Uso de `<colgroup>` e `<col>` para estilizar colunas
+  - Aplicação de classes em colunas específicas
+  - Destaque de linhas com classes CSS
+  - Cores de fundo em colunas inteiras
+
+- **ex038**: Tabela de filmes favoritos:
+  - Uso correto de `scope` (col, row, colgroup, rowgroup)
+  - Mesclagem de células com colspan e rowspan
+  - Estrutura semântica com thead, tbody e tfoot
+  - Agrupamento de dados por categorias
 
 - **ex037**: Mesclagem de células em tabelas:
   - Uso de `colspan` para mesclar células horizontalmente
