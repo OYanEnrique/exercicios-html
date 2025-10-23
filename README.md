@@ -21,10 +21,16 @@ Arquivos/
 ├── ex037/ - Mesclagem de células com colspan e rowspan
 ├── ex038/ - Tabela de filmes com escopo semântico
 ├── ex039/ - Estilização de colunas com colgroup
-└── ex040/ - Tabelas responsivas com overflow-x
+├── ex040/ - Tabelas responsivas com overflow-x
+└── ex041/ - Introdução a iframes
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex041**: Introdução a iframes:
+  - Uso básico do elemento `<iframe>`
+  - Incorporação de páginas externas
+  - Definição de largura e altura
 
 - **ex040**: Tabelas responsivas:
   - Uso de `overflow-x: auto` para rolagem horizontal
