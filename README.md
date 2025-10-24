@@ -22,10 +22,16 @@ Arquivos/
 ├── ex038/ - Tabela de filmes com escopo semântico
 ├── ex039/ - Estilização de colunas com colgroup
 ├── ex040/ - Tabelas responsivas com overflow-x
-└── ex041/ - Introdução a iframes
+├── ex041/ - Introdução a iframes
+└── ex042/ - Iframe com conteúdo local
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex042**: Iframe com conteúdo local:
+  - Incorporação de páginas locais com iframe
+  - Uso de caminhos relativos
+  - Exemplo prático com ex039
 
 - **ex041**: Introdução a iframes:
   - Uso básico do elemento `<iframe>`
