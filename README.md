@@ -29,9 +29,10 @@ Arquivos/
 ### 🎯 Destaques Recentes
 
 - **ex042**: Iframe com conteúdo local:
-  - Incorporação de páginas locais com iframe
-  - Uso de caminhos relativos
-  - Exemplo prático com ex039
+  - Navegação entre páginas usando atributo `target`
+  - Links que carregam conteúdo no iframe
+  - Uso de `srcdoc` para conteúdo padrão
+  - Tratamento de erro com fallback
 
 - **ex041**: Introdução a iframes:
   - Uso básico do elemento `<iframe>`
