@@ -17,13 +17,21 @@
     </style>
 </head>
 <body>
-    <h1>Exemplo de iframe</h1>
+    <h1>Faca uma escolha</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, harum quibusdam consequatur tenetur ipsum alias a. A minima obcaecati laborum eum iusto inventore, voluptatum ullam, repellendus repellat libero, eligendi adipisci.
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. In saepe nam cum illum similique molestiae ex voluptate impedit veniam ad. Nemo hic libero sunt? Doloremque dolores minima numquam perferendis necessitatibus?
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem impedit odit tempora ea, saepe beatae mollitia inventore. Id possimus pariatur, enim necessitatibus magni suscipit nesciunt eveniet. Iste sint doloribus velit.
     </p>
 
-    <iframe src="../ex039/ex039.html" width="600" height="400"></iframe>
+    <ul>
+        <li><a href="../ex039/ex039.html" target="frame">Pagina 1</a></li>
+        <li><a href="../ex040/ex040.html" target="frame">Pagina 2</a></li>
+        <li><a href="../ex041/ex041.html" target="frame">Pagina 3</a></li>
+    </ul>
+
+    <iframe id = "tela" name ="frame" srcdoc="<h1>Escolha uma página</h1>" width="600" height="400">
+        <p class="erro">Erro ao carregar o conteúdo do iframe.</p>
+    </iframe>
     <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea distinctio sequi, facere, atque reiciendis qui et accusamus sed, quod consequatur optio reprehenderit deserunt culpa voluptate odio incidunt quasi quidem asperiores?
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem nulla incidunt possimus, fuga illum ducimus eaque doloribus aspernatur praesentium iusto impedit, consequatur dolorum veritatis accusamus rerum exercitationem corporis ab aliquam.
