@@ -23,10 +23,17 @@ Arquivos/
 ├── ex039/ - Estilização de colunas com colgroup
 ├── ex040/ - Tabelas responsivas com overflow-x
 ├── ex041/ - Introdução a iframes
-└── ex042/ - Iframe com conteúdo local
+├── ex042/ - Iframe com conteúdo local
+└── ex043/ - Segurança em iframes com sandbox
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex043**: Segurança em iframes:
+  - Uso do atributo `sandbox` para segurança
+  - Permissões com allow-same-origin, allow-scripts, allow-forms
+  - Atributo `referrerpolicy` para controle de referência
+  - Formulário simples dentro de iframe
 
 - **ex042**: Iframe com conteúdo local:
   - Navegação entre páginas usando atributo `target`
