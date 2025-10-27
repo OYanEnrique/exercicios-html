@@ -24,10 +24,16 @@ Arquivos/
 ├── ex040/ - Tabelas responsivas com overflow-x
 ├── ex041/ - Introdução a iframes
 ├── ex042/ - Iframe com conteúdo local
-└── ex043/ - Segurança em iframes com sandbox
+├── ex043/ - Segurança em iframes com sandbox
+└── ex044/ - Incorporação de vídeos e mapas com iframe
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex044**: Incorporação de conteúdo externo:
+  - Embed de vídeos do YouTube
+  - Incorporação de Google Maps
+  - Uso de atributos allowfullscreen e loading="lazy"
 
 - **ex043**: Segurança em iframes:
   - Uso do atributo `sandbox` para segurança
