@@ -33,8 +33,9 @@ Arquivos/
 
 - **ex045**: Introdução a formulários:
   - Estrutura básica de formulário com `<form>`
-  - Campos de texto com `<input type="text">`
-  - Botão de envio com `<input type="submit">`
+  - Uso de `<label>` para acessibilidade
+  - Atributo `action` para definir destino do formulário
+  - Controle de autocomplete com `autocomplete="off"`
 
 - **ex044**: Incorporação de conteúdo externo:
   - Embed de vídeos do YouTube
