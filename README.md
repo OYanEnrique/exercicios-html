@@ -25,10 +25,16 @@ Arquivos/
 ├── ex041/ - Introdução a iframes
 ├── ex042/ - Iframe com conteúdo local
 ├── ex043/ - Segurança em iframes com sandbox
-└── ex044/ - Incorporação de vídeos e mapas com iframe
+├── ex044/ - Incorporação de vídeos e mapas com iframe
+└── ex045/ - Introdução a formulários HTML
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex045**: Introdução a formulários:
+  - Estrutura básica de formulário com `<form>`
+  - Campos de texto com `<input type="text">`
+  - Botão de envio com `<input type="submit">`
 
 - **ex044**: Incorporação de conteúdo externo:
   - Embed de vídeos do YouTube
