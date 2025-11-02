@@ -35,6 +35,7 @@ Arquivos/
   - Estrutura básica de formulário com `<form>`
   - Uso de `<label>` para acessibilidade
   - Atributo `action` para definir destino do formulário
+  - Método POST para envio seguro de dados
   - Controle de autocomplete com `autocomplete="off"`
 
 - **ex044**: Incorporação de conteúdo externo:
