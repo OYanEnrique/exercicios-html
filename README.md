@@ -26,10 +26,18 @@ Arquivos/
 ├── ex042/ - Iframe com conteúdo local
 ├── ex043/ - Segurança em iframes com sandbox
 ├── ex044/ - Incorporação de vídeos e mapas com iframe
-└── ex045/ - Introdução a formulários HTML
+├── ex045/ - Introdução a formulários HTML
+└── ex046/ - Formulário com validação e tipos de input
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex046**: Formulário com validação:
+  - Input type password para senhas
+  - Atributos required, minlength e maxlength
+  - Placeholder para dicas ao usuário
+  - Botão reset para limpar formulário
+  - Autocomplete específico (username, new-password)
 
 - **ex045**: Introdução a formulários:
   - Estrutura básica de formulário com `<form>`
