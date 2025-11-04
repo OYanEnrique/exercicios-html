@@ -27,10 +27,18 @@ Arquivos/
 ├── ex043/ - Segurança em iframes com sandbox
 ├── ex044/ - Incorporação de vídeos e mapas com iframe
 ├── ex045/ - Introdução a formulários HTML
-└── ex046/ - Formulário com validação e tipos de input
+├── ex046/ - Formulário com validação e tipos de input
+└── ex047/ - Inputs de número, data e hora
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex047**: Inputs especializados:
+  - Input type number com min, max e step
+  - Input type date com validação de intervalo
+  - Input type month para seleção de mês/ano
+  - Input type time com restrição de horário
+  - Valores padrão com atributo value
 
 - **ex046**: Formulário com validação:
   - Input type password para senhas
