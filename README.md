@@ -28,10 +28,17 @@ Arquivos/
 ├── ex044/ - Incorporação de vídeos e mapas com iframe
 ├── ex045/ - Introdução a formulários HTML
 ├── ex046/ - Formulário com validação e tipos de input
-└── ex047/ - Inputs de número, data e hora
+├── ex047/ - Inputs de número, data e hora
+└── ex048/ - Inputs de email, telefone e fieldset
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex048**: Inputs especializados e agrupamento:
+  - Input type email com validação automática
+  - Input type tel com pattern para formato de telefone
+  - Uso de `<fieldset>` para agrupar campos
+  - Pattern regex para validação customizada
 
 - **ex047**: Inputs especializados:
   - Input type number com min, max e step
