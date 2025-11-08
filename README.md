@@ -29,10 +29,23 @@ Arquivos/
 ├── ex045/ - Introdução a formulários HTML
 ├── ex046/ - Formulário com validação e tipos de input
 ├── ex047/ - Inputs de número, data e hora
-└── ex048/ - Inputs de email, telefone e fieldset
+├── ex048/ - Inputs de email, telefone e fieldset
+├── ex049/ - Radio buttons e checkboxes
+└── ex050/ - Inputs de cor, range e file
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex050**: Inputs avançados:
+  - Input type color para seleção de cores
+  - Input type range para controles deslizantes
+  - Input type file para upload de arquivos
+
+- **ex049**: Seleções múltiplas e únicas:
+  - Radio buttons para seleção única
+  - Checkboxes para múltiplas seleções
+  - Agrupamento com fieldset e legend
+  - Atributo checked para valores padrão
 
 - **ex048**: Inputs especializados e agrupamento:
   - Input type email com validação automática
