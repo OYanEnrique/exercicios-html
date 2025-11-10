@@ -31,10 +31,17 @@ Arquivos/
 ├── ex047/ - Inputs de número, data e hora
 ├── ex048/ - Inputs de email, telefone e fieldset
 ├── ex049/ - Radio buttons e checkboxes
-└── ex050/ - Inputs de cor, range e file
+├── ex050/ - Inputs de cor, range e file
+└── ex051/ - Select, datalist e textarea
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex051**: Elementos de seleção e texto:
+  - Select com optgroup para agrupar opções
+  - Datalist para sugestões automáticas
+  - Textarea para textos longos
+  - Organização de opções por categorias
 
 - **ex050**: Inputs avançados:
   - Input type color para seleção de cores
