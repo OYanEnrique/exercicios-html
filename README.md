@@ -32,10 +32,17 @@ Arquivos/
 ├── ex048/ - Inputs de email, telefone e fieldset
 ├── ex049/ - Radio buttons e checkboxes
 ├── ex050/ - Inputs de cor, range e file
-└── ex051/ - Select, datalist e textarea
+├── ex051/ - Select, datalist e textarea
+└── ex052/ - Output e cálculos dinâmicos com oninput
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex052**: Output e JavaScript inline:
+  - Elemento `<output>` para exibir resultados
+  - Evento `oninput` para atualização em tempo real
+  - Cálculos dinâmicos sem enviar formulário
+  - Manipulação de valores com JavaScript
 
 - **ex051**: Elementos de seleção e texto:
   - Select com optgroup para agrupar opções
