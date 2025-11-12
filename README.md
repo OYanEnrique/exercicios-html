@@ -33,10 +33,17 @@ Arquivos/
 ├── ex049/ - Radio buttons e checkboxes
 ├── ex050/ - Inputs de cor, range e file
 ├── ex051/ - Select, datalist e textarea
-└── ex052/ - Output e cálculos dinâmicos com oninput
+├── ex052/ - Output e cálculos dinâmicos com oninput
+└── ex053/ - Media Queries para tela e impressão
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex053**: Media Queries:
+  - Estilos diferentes para tela e impressão
+  - Uso de `media="screen"` e `media="print"`
+  - CSS específico para impressora
+  - Conteúdo gerado com `::after` para impressão
 
 - **ex052**: Output e JavaScript inline:
   - Elemento `<output>` para exibir resultados
