@@ -34,15 +34,15 @@ Arquivos/
 ├── ex050/ - Inputs de cor, range e file
 ├── ex051/ - Select, datalist e textarea
 ├── ex052/ - Output e cálculos dinâmicos com oninput
-└── ex053/ - Media Queries para tela e impressão
+└── ex053/ - Media Queries (impressão e orientação)
 ```
 
 ### 🎯 Destaques Recentes
 
 - **ex053**: Media Queries:
-  - Estilos diferentes para tela e impressão
-  - Uso de `media="screen"` e `media="print"`
-  - CSS específico para impressora
+  - mq001: Estilos para tela e impressão
+  - mq002: Media queries por orientação (portrait/landscape)
+  - CSS específico para cada tipo de mídia
   - Conteúdo gerado com `::after` para impressão
 
 - **ex052**: Output e JavaScript inline:
