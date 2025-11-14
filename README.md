@@ -42,8 +42,9 @@ Arquivos/
 - **ex053**: Media Queries:
   - mq001: Estilos para tela e impressão
   - mq002: Media queries por orientação (portrait/landscape)
+  - Imagens de fundo diferentes para cada orientação
+  - Background adaptativo com background-position
   - CSS específico para cada tipo de mídia
-  - Conteúdo gerado com `::after` para impressão
 
 - **ex052**: Output e JavaScript inline:
   - Elemento `<output>` para exibir resultados
