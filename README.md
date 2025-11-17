@@ -34,10 +34,17 @@ Arquivos/
 ├── ex050/ - Inputs de cor, range e file
 ├── ex051/ - Select, datalist e textarea
 ├── ex052/ - Output e cálculos dinâmicos com oninput
-└── ex053/ - Media Queries (impressão e orientação)
+├── ex053/ - Media Queries (impressão e orientação)
+└── ex054/ - Media Queries responsivas para múltiplos dispositivos
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex054**: Media Queries responsivas para múltiplos dispositivos:
+  - Breakpoints para diferentes tamanhos de tela
+  - Imagens de fundo específicas para cada dispositivo
+  - Ícones adaptáveis por tamanho de tela
+  - Mobile-first approach com display none/block
 
 - **ex053**: Media Queries:
   - mq001: Estilos para tela e impressão
