@@ -41,10 +41,11 @@ Arquivos/
 ### 🎯 Destaques Recentes
 
 - **ex054**: Media Queries responsivas para múltiplos dispositivos:
-  - Breakpoints para diferentes tamanhos de tela
+  - Breakpoints para diferentes tamanhos de tela (768px, 992px, 1200px)
   - Imagens de fundo específicas para cada dispositivo
-  - Ícones adaptáveis por tamanho de tela
+  - Ícones adaptáveis por tamanho de tela (phone, tablet, pc, tv)
   - Mobile-first approach com display none/block
+  - Media query para impressão com estilos específicos
 
 - **ex053**: Media Queries:
   - mq001: Estilos para tela e impressão
