@@ -35,10 +35,16 @@ Arquivos/
 ├── ex051/ - Select, datalist e textarea
 ├── ex052/ - Output e cálculos dinâmicos com oninput
 ├── ex053/ - Media Queries (impressão e orientação)
-└── ex054/ - Media Queries responsivas para múltiplos dispositivos
+├── ex054/ - Media Queries responsivas para múltiplos dispositivos
+└── ex055/ - Menu responsivo com Media Queries
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex055**: Menu responsivo com Media Queries:
+  - Estrutura de menu com elemento `<menu>` e lista
+  - Layout adaptável para diferentes tamanhos de tela
+  - Preparação para menu hambúrguer em dispositivos móveis
 
 - **ex054**: Media Queries responsivas para múltiplos dispositivos:
   - Breakpoints para diferentes tamanhos de tela (768px, 992px, 1200px)
