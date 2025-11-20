@@ -43,6 +43,8 @@ Arquivos/
 
 - **ex055**: Menu responsivo com Media Queries:
   - Estrutura de menu com elemento `<menu>` e lista
+  - Estilização de links com display block
+  - Efeito hover em itens do menu
   - Layout adaptável para diferentes tamanhos de tela
   - Preparação para menu hambúrguer em dispositivos móveis
 
