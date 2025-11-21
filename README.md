@@ -45,8 +45,9 @@ Arquivos/
   - Estrutura de menu com elemento `<menu>` e lista
   - Estilização de links com display block
   - Efeito hover em itens do menu
+  - Menu hambúrguer com ícone do Google Material Icons
+  - JavaScript para controlar visibilidade do menu (display block/none)
   - Layout adaptável para diferentes tamanhos de tela
-  - Preparação para menu hambúrguer em dispositivos móveis
 
 - **ex054**: Media Queries responsivas para múltiplos dispositivos:
   - Breakpoints para diferentes tamanhos de tela (768px, 992px, 1200px)
