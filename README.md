@@ -47,7 +47,9 @@ Arquivos/
   - Efeito hover em itens do menu
   - Menu hambúrguer com ícone do Google Material Icons
   - JavaScript para controlar visibilidade do menu (display block/none)
-  - Layout adaptável para diferentes tamanhos de tela
+  - Media query para desktop (min-width: 768px) com menu horizontal
+  - Função mudouTamanho() para ajustar menu ao redimensionar janela
+  - Menu inline-block em telas maiores
 
 - **ex054**: Media Queries responsivas para múltiplos dispositivos:
   - Breakpoints para diferentes tamanhos de tela (768px, 992px, 1200px)
