@@ -4,7 +4,7 @@ Este repositório contém os exercícios práticos realizados durante o curso de
 
 ## 📚 Sobre o Projeto
 
-Aqui estão reunidos todos os exercícios desenvolvidos ao longo dos módulos 1 a 3 do curso. O projeto está em constante evolução, com novos exercícios sendo adicionados conforme o avanço no aprendizado.
+Aqui estão reunidos todos os exercícios desenvolvidos ao longo dos módulos 1 a 5 do curso. O projeto está em constante evolução, com novos exercícios sendo adicionados conforme o avanço no aprendizado.
 
 ## 📂 Estrutura do Repositório
 
@@ -36,10 +36,17 @@ Arquivos/
 ├── ex052/ - Output e cálculos dinâmicos com oninput
 ├── ex053/ - Media Queries (impressão e orientação)
 ├── ex054/ - Media Queries responsivas para múltiplos dispositivos
-└── ex055/ - Menu responsivo com Media Queries
+├── ex055/ - Menu responsivo com Media Queries
+└── ex056/ - Introdução ao Flexbox
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex056**: Introdução ao Flexbox:
+  - Display flex para layouts flexíveis
+  - Flex-direction e propriedades do container
+  - Distribuição automática de espaço com flex: auto
+  - Criação de layouts responsivos
 
 - **ex055**: Menu responsivo com Media Queries:
   - Estrutura de menu com elemento `<menu>` e lista
@@ -178,7 +185,8 @@ O curso aborda desde os fundamentos básicos até conceitos mais avançados de d
 ✅ Módulo 1 - Finalizado
 ✅ Módulo 2 - Finalizado
 ✅ Módulo 3 - Finalizado
-✅ Módulo 4 - Em andamento
+✅ Módulo 4 - Finalizado
+✅ Módulo 5 - Em andamento
 
 ⏳ Novos módulos serão adicionados conforme o andamento do curso
 
