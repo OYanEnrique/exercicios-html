@@ -37,10 +37,16 @@ Arquivos/
 ├── ex053/ - Media Queries (impressão e orientação)
 ├── ex054/ - Media Queries responsivas para múltiplos dispositivos
 ├── ex055/ - Menu responsivo com Media Queries
-└── ex056/ - Introdução ao Flexbox
+├── ex056/ - Introdução ao Flexbox
+└── ex057/ - Flex-direction no Flexbox
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex057**: Flex-direction no Flexbox:
+  - Propriedade flex-direction para controlar direção dos itens
+  - Valores: row, row-reverse, column, column-reverse
+  - Alteração da direção principal do layout
 
 - **ex056**: Introdução ao Flexbox:
   - Display flex para layouts flexíveis
