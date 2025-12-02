@@ -38,10 +38,17 @@ Arquivos/
 ├── ex054/ - Media Queries responsivas para múltiplos dispositivos
 ├── ex055/ - Menu responsivo com Media Queries
 ├── ex056/ - Introdução ao Flexbox
-└── ex057/ - Flex-direction no Flexbox
+├── ex057/ - Flex-direction no Flexbox
+└── ex058/ - Flex-flow e flex-wrap no Flexbox
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex058**: Flex-flow e flex-wrap no Flexbox:
+  - Propriedade flex-flow como shorthand para flex-direction e flex-wrap
+  - Comportamento de wrap para quebra de linha
+  - Controle de altura do container
+  - Organização automática de itens em múltiplas linhas/colunas
 
 - **ex057**: Flex-direction no Flexbox:
   - Propriedade flex-direction para controlar direção dos itens
