@@ -39,10 +39,17 @@ Arquivos/
 ├── ex055/ - Menu responsivo com Media Queries
 ├── ex056/ - Introdução ao Flexbox
 ├── ex057/ - Flex-direction no Flexbox
-└── ex058/ - Flex-flow e flex-wrap no Flexbox
+├── ex058/ - Flex-flow e flex-wrap no Flexbox
+└── ex059/ - Centralização com Flexbox (justify-content e align-items)
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex059**: Centralização com Flexbox:
+  - Propriedade justify-content para alinhamento no eixo principal
+  - Propriedade align-items para alinhamento no eixo transversal
+  - Centralização perfeita de elementos (horizontal e vertical)
+  - Tela de login centralizada com 100vh e 100vw
 
 - **ex058**: Flex-flow e flex-wrap no Flexbox:
   - Propriedade flex-flow como shorthand para flex-direction e flex-wrap
