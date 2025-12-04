@@ -40,10 +40,17 @@ Arquivos/
 ├── ex056/ - Introdução ao Flexbox
 ├── ex057/ - Flex-direction no Flexbox
 ├── ex058/ - Flex-flow e flex-wrap no Flexbox
-└── ex059/ - Centralização com Flexbox (justify-content e align-items)
+├── ex059/ - Centralização com Flexbox (justify-content e align-items)
+└── ex060/ - Align-content no Flexbox
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex060**: Align-content no Flexbox:
+  - Propriedade align-content para alinhamento de múltiplas linhas
+  - Controle do espaço entre linhas flex
+  - Valores: flex-start, flex-end, center, space-between, space-around
+  - Utilização com flex-wrap para layouts com múltiplas linhas
 
 - **ex059**: Centralização com Flexbox:
   - Propriedade justify-content para alinhamento no eixo principal
