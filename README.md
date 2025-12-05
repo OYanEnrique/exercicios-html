@@ -41,10 +41,24 @@ Arquivos/
 ├── ex057/ - Flex-direction no Flexbox
 ├── ex058/ - Flex-flow e flex-wrap no Flexbox
 ├── ex059/ - Centralização com Flexbox (justify-content e align-items)
-└── ex060/ - Align-content no Flexbox
+├── ex060/ - Align-content no Flexbox
+├── ex061/ - Order no Flexbox
+└── ex062/ - Align-self no Flexbox
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex062**: Align-self no Flexbox:
+  - Propriedade align-self para alinhamento individual de itens
+  - Sobrescreve o align-items do container
+  - Valores: auto, flex-start, flex-end, center, stretch
+  - Controle individual do posicionamento no eixo transversal
+
+- **ex061**: Order no Flexbox:
+  - Propriedade order para controlar ordem de exibição
+  - Reorganização visual sem alterar HTML
+  - Valores numéricos (padrão: 0)
+  - Itens ordenados do menor para o maior valor
 
 - **ex060**: Align-content no Flexbox:
   - Propriedade align-content para alinhamento de múltiplas linhas
