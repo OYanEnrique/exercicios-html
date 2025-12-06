@@ -43,10 +43,30 @@ Arquivos/
 ├── ex059/ - Centralização com Flexbox (justify-content e align-items)
 ├── ex060/ - Align-content no Flexbox
 ├── ex061/ - Order no Flexbox
-└── ex062/ - Align-self no Flexbox
+├── ex062/ - Align-self no Flexbox
+├── ex063/ - Flex-basis no Flexbox
+├── ex064/ - Flex-grow e flex-shrink no Flexbox
+└── ex065/ - Combinação de flex-grow, flex-shrink e transições
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex065**: Combinação de flex-grow, flex-shrink e transições:
+  - Propriedades flex-grow e flex-shrink combinadas
+  - Flex-basis para tamanho inicial
+  - Transições CSS em elementos flexbox
+  - Efeito hover com crescimento dinâmico
+
+- **ex064**: Flex-grow e flex-shrink no Flexbox:
+  - Propriedade flex-grow para expansão de itens
+  - Propriedade flex-shrink para encolhimento de itens
+  - Distribuição de espaço disponível
+  - Controle de proporções entre itens
+
+- **ex063**: Flex-basis no Flexbox:
+  - Propriedade flex-basis para tamanho inicial dos itens
+  - Define tamanho base antes de distribuir espaço restante
+  - Valores: auto, pixels, porcentagens
 
 - **ex062**: Align-self no Flexbox:
   - Propriedade align-self para alinhamento individual de itens
