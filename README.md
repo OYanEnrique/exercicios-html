@@ -46,10 +46,17 @@ Arquivos/
 ├── ex062/ - Align-self no Flexbox
 ├── ex063/ - Flex-basis no Flexbox
 ├── ex064/ - Flex-grow e flex-shrink no Flexbox
-└── ex065/ - Combinação de flex-grow, flex-shrink e transições
+├── ex065/ - Combinação de flex-grow, flex-shrink e transições
+└── ex066/ - Shorthand flex (initial, auto, none)
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex066**: Shorthand flex (initial, auto, none):
+  - Propriedade flex como shorthand para grow, shrink e basis
+  - Valores pré-definidos: initial (0 1 auto), auto (1 1 auto), none (0 0 auto)
+  - Simplificação de código com valores comuns
+  - Comparação entre sintaxe longa e curta
 
 - **ex065**: Combinação de flex-grow, flex-shrink e transições:
   - Propriedades flex-grow e flex-shrink combinadas
