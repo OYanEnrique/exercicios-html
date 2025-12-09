@@ -47,10 +47,17 @@ Arquivos/
 ├── ex063/ - Flex-basis no Flexbox
 ├── ex064/ - Flex-grow e flex-shrink no Flexbox
 ├── ex065/ - Combinação de flex-grow, flex-shrink e transições
-└── ex066/ - Shorthand flex (initial, auto, none)
+├── ex066/ - Shorthand flex (initial, auto, none)
+└── ex067/ - Menu com Flexbox
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex067**: Menu com Flexbox:
+  - Criação de menu de navegação com flexbox
+  - Estrutura semântica com header e nav
+  - Separação de CSS em arquivo externo
+  - Aplicação prática de conceitos flexbox
 
 - **ex066**: Shorthand flex (initial, auto, none):
   - Propriedade flex como shorthand para grow, shrink e basis
