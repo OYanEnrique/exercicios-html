@@ -57,6 +57,9 @@ Arquivos/
   - Criação de menu de navegação com flexbox
   - Estrutura semântica com header e nav
   - Separação de CSS em arquivo externo
+  - Justify-content space-between no header
+  - Links estilizados com hover e transições
+  - Display flex aninhado (header e nav)
   - Aplicação prática de conceitos flexbox
 
 - **ex066**: Shorthand flex (initial, auto, none):
