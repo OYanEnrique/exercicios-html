@@ -60,6 +60,8 @@ Arquivos/
   - Justify-content space-between no header
   - Links estilizados com hover e transições
   - Display flex aninhado (header e nav)
+  - Media query para dispositivos móveis (max-width: 580px)
+  - Layout responsivo com flex-flow column em mobile
   - Aplicação prática de conceitos flexbox
 
 - **ex066**: Shorthand flex (initial, auto, none):
