@@ -48,10 +48,18 @@ Arquivos/
 ├── ex064/ - Flex-grow e flex-shrink no Flexbox
 ├── ex065/ - Combinação de flex-grow, flex-shrink e transições
 ├── ex066/ - Shorthand flex (initial, auto, none)
-└── ex067/ - Menu com Flexbox
+├── ex067/ - Menu com Flexbox
+└── ex068/ - Layout de conteúdo flexível com Flexbox
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex068**: Layout de conteúdo flexível com Flexbox:
+  - Estrutura de conteúdo com article media-text e text-media
+  - Combinação de texto e mídia (imagens e vídeos)
+  - Layout flexível para diferentes tipos de conteúdo
+  - Seções flex-content e normal
+  - Integração de iframe do YouTube
 
 - **ex067**: Menu com Flexbox:
   - Criação de menu de navegação com flexbox
