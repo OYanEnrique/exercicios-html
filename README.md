@@ -59,6 +59,9 @@ Arquivos/
   - Combinação de texto e mídia (imagens e vídeos)
   - Layout flexível para diferentes tipos de conteúdo
   - Seções flex-content e normal
+  - Display flex aninhado para articles
+  - Flex-flow row wrap-reverse para alternar ordem
+  - Justify-content space-between para distribuição
   - Integração de iframe do YouTube
 
 - **ex067**: Menu com Flexbox:
