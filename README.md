@@ -49,10 +49,18 @@ Arquivos/
 ├── ex065/ - Combinação de flex-grow, flex-shrink e transições
 ├── ex066/ - Shorthand flex (initial, auto, none)
 ├── ex067/ - Menu com Flexbox
-└── ex068/ - Layout de conteúdo flexível com Flexbox
+├── ex068/ - Layout de conteúdo flexível com Flexbox
+└── ex069/ - Introdução ao Grid Layout
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex069**: Introdução ao Grid Layout:
+  - Display grid para layouts bidimensionais
+  - Grid-template-columns para definir colunas
+  - Grid-template-rows para definir linhas
+  - Gap para espaçamento entre células
+  - Estrutura básica de container e itens grid
 
 - **ex068**: Layout de conteúdo flexível com Flexbox:
   - Estrutura de conteúdo com article media-text e text-media
