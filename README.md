@@ -50,10 +50,22 @@ Arquivos/
 ├── ex066/ - Shorthand flex (initial, auto, none)
 ├── ex067/ - Menu com Flexbox
 ├── ex068/ - Layout de conteúdo flexível com Flexbox
-└── ex069/ - Introdução ao Grid Layout
+├── ex069/ - Introdução ao Grid Layout
+└── ex070/ - Grid Layout: template, auto e alinhamento
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex070**: Grid Layout: template, auto e alinhamento:
+  - Grid-template shorthand (rows / columns)
+  - Grid-auto-rows para definir altura de linhas implícitas
+  - Grid-auto-flow para controlar direção de preenchimento (column)
+  - Grid-auto-columns para definir largura de colunas implícitas
+  - Place-items shorthand para align-items e justify-items
+  - Place-content shorthand para align-content e justify-content
+  - Repeat() function para repetir padrões
+  - Gap para espaçamento entre células
+  - Combinação de grid explícito e implícito
 
 - **ex069**: Introdução ao Grid Layout:
   - Display grid para layouts bidimensionais
