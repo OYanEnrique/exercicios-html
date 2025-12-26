@@ -51,10 +51,22 @@ Arquivos/
 ├── ex067/ - Menu com Flexbox
 ├── ex068/ - Layout de conteúdo flexível com Flexbox
 ├── ex069/ - Introdução ao Grid Layout
-└── ex070/ - Grid Layout: template, auto e alinhamento
+├── ex070/ - Grid Layout: template, auto e alinhamento
+└── ex071/ - Grid Areas: posicionamento com linhas e colunas
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex071**: Grid Areas: posicionamento com linhas e colunas:
+  - Grid-row-start e grid-row-end para posicionar nas linhas
+  - Grid-column-start e grid-column-end para posicionar nas colunas
+  - Controle preciso de posicionamento de itens no grid
+  - Itens que ocupam múltiplas células (rows e columns)
+  - Grid-template-rows com repeat() para linhas de altura fixa
+  - Grid-template-columns com repeat() e fração (fr)
+  - Layout de três caixas com posicionamentos diferentes
+  - Caixa spanning toda a largura (colunas 1-5)
+  - Caixas dividindo espaço vertical (rows 2-4)
 
 - **ex070**: Grid Layout: template, auto e alinhamento:
   - Grid-template shorthand (rows / columns)
