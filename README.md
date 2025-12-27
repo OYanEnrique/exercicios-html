@@ -52,10 +52,21 @@ Arquivos/
 ├── ex068/ - Layout de conteúdo flexível com Flexbox
 ├── ex069/ - Introdução ao Grid Layout
 ├── ex070/ - Grid Layout: template, auto e alinhamento
-└── ex071/ - Grid Areas: posicionamento com linhas e colunas
+├── ex071/ - Grid Areas: posicionamento com linhas e colunas
+└── ex072/ - Grid Area Shorthand: sintaxe abreviada para posicionamento
 ```
 
 ### 🎯 Destaques Recentes
+
+- **ex072**: Grid Area Shorthand: sintaxe abreviada para posicionamento:
+  - Grid-area shorthand (row-start / column-start / row-end / column-end)
+  - Simplificação de código com sintaxe única
+  - Combinação de todas as propriedades de posicionamento em uma linha
+  - Layout de três caixas usando grid-area
+  - Comparação entre sintaxe individual e shorthand
+  - Grid-template-rows com repeat() para 3 linhas de 100px
+  - Grid-template-columns com repeat() para 4 colunas fracionárias (1fr)
+  - Posicionamento preciso com valores de linha e coluna
 
 - **ex071**: Grid Areas: posicionamento com linhas e colunas:
   - Grid-row-start e grid-row-end para posicionar nas linhas
